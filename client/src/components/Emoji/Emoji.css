@@ -1,0 +1,12 @@
+.btnContainer {
+    display: flex;
+    align-items: center; 
+    justify-content: flex-end; 
+    border-top: solid 2px rgb(211, 205, 205);
+    padding: 3px; 
+}
+
+.emojiBtn {
+   cursor: pointer;
+   margin-left: 10px; 
+}
